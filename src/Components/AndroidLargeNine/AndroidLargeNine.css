@@ -1,0 +1,70 @@
+.eight-layout {
+  background-color: rgba(252, 252, 252, 1);
+}
+
+.rounded-border {
+  width: 375px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.social-icons-layout {
+  height: 27.65px;
+  background-color: rgba(255, 255, 255, 1);
+  margin: 0 auto;
+}
+
+.schedule {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  color: rgba(44, 43, 43, 1);
+}
+.border3 {
+  border: 0.5px solid rgba(127, 127, 127, 1);
+}
+.border1 {
+  border: 0.5px solid rgba(127, 127, 127, 1);
+  width: 50%;
+}
+.border2 {
+  border: 0.5px solid rgba(127, 127, 127, 1);
+  width: 8%;
+}
+.border4 {
+  border-bottom: 2px solid rgba(127, 127, 127, 1);
+}
+.typeof-workout {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  background: linear-gradient(270deg, #d3a4f4 0%, #e9b1e0 102.35%);
+  border-radius: 20px;
+  text-wrap: nowrap;
+}
+.lowerbody {
+  background: var(--gray-50, rgba(241, 241, 241, 1));
+  border-radius: 20px;
+  font-family: Montserrat;
+  color: rgba(44, 43, 43, 1);
+  line-height: 14.63px;
+  text-align: left;
+}
+.plus-circle {
+  width: 63px;
+  height: 63px;
+  background: linear-gradient(90.95deg, #e9b1e0 0.79%, #d3a5f2 99.18%);
+  box-shadow: 0px 4px 6.5px 0px rgba(0, 0, 0, 0.15);
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 43.88px;
+  color: rgba(255, 255, 255, 1);
+}
+.border5 {
+  border: 0.5px solid rgba(127, 127, 127, 1);
+  width: 85%;
+}
+.border6 {
+  border: 0.5px solid rgba(127, 127, 127, 1);
+  width: 5%;
+}

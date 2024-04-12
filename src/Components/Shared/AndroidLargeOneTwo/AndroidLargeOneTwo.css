@@ -1,0 +1,35 @@
+.layout {
+  width: 375px;
+  border-radius: 10px;
+  opacity: 0px;
+  background-color: rgba(252, 252, 252, 1);
+  margin: 0 auto;
+}
+.time {
+  font-family: Montserrat;
+  line-height: 18.29px;
+  letter-spacing: -0.30000001192092896px;
+  color: rgba(37, 39, 39, 1);
+}
+
+.status-img {
+  width: 66.66px;
+  height: 11.67px;
+}
+.skip {
+  font-family: Montserrat;
+  color: rgba(159, 178, 255, 1);
+  line-height: 19.5px;
+  text-align: right;
+}
+.track {
+  font-family: Montserrat;
+  line-height: 24.38px;
+  text-align: left;
+}
+.track-desc {
+  font-family: Montserrat;
+  color: rgba(120, 120, 120, 1);
+  line-height: 19.5px;
+  text-align: left;
+}

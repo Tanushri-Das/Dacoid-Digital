@@ -1,0 +1,66 @@
+.create-account {
+  font-family: Roboto;
+  line-height: 23.44px;
+  text-align: left;
+}
+
+.input {
+  background-color: rgba(241, 241, 241, 1);
+  border-radius: 12px;
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: left;
+  color: rgba(127, 127, 127, 1);
+}
+.input:focus {
+  border: none;
+  outline: none;
+}
+.checkbox {
+  width: 22px;
+  height: 22px;
+}
+.checkbox-text {
+  font-family: Montserrat;
+  line-height: 21.35px;
+  text-align: left;
+  color: rgba(127, 127, 127, 1);
+}
+.link {
+  color: rgba(147, 169, 255, 1);
+}
+.button {
+  background: linear-gradient(270deg, #7b91ff 0%, #95beff 100%);
+  color: rgba(255, 255, 255, 1);
+  font-family: Montserrat;
+  line-height: 19.5px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+}
+.divider {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  color: rgba(37, 39, 39, 1);
+}
+
+.divider::before,
+.divider::after {
+  flex: 0.5;
+  content: "";
+  padding: 0.1px;
+  background-color: rgba(127, 127, 127, 1);
+  margin: 5px;
+}
+.social-icon-btn {
+  border: 1px solid rgba(127, 127, 127, 1);
+  width: 44px;
+  height: 44px;
+}
+.already-account {
+  font-family: Montserrat;
+  line-height: 14.63px;
+}

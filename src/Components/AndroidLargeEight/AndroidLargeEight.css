@@ -1,0 +1,78 @@
+.eight-layout {
+  background-color: rgba(252, 252, 252, 1);
+}
+.rounded-border {
+  width: 375px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.chevron {
+  width: 20px;
+  height: 20px;
+  border-radius: 3px 0px 0px 0px;
+}
+.workout-tracker {
+  font-family: Montserrat;
+  line-height: 24.38px;
+  color: rgba(44, 43, 43, 1);
+}
+
+.alert-container {
+  background: linear-gradient(
+    90.07deg,
+    rgba(129, 157, 255, 0.28) 5.94%,
+    rgba(16, 16, 16, 0) 76.45%
+  );
+  border: 1.02px solid rgba(69, 69, 69, 0.04);
+  border-radius: 10px;
+}
+.burn {
+  font-family: Montserrat;
+  line-height: 15.32px;
+  text-align: left;
+  color: rgba(44, 43, 43, 1);
+}
+.upcoming-workout {
+  font-family: Montserrat;
+  line-height: 19.5px;
+  text-align: left;
+  color: rgba(44, 43, 43, 1);
+}
+.see-more {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: left;
+  color: rgba(127, 127, 127, 1);
+}
+.card {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+}
+.card-title {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: left;
+  color: rgba(44, 43, 43, 1);
+}
+.train {
+  font-family: Montserrat;
+  line-height: 19.5px;
+  text-align: left;
+}
+.arms {
+  font-family: Montserrat;
+  line-height: 12.19px;
+  text-align: left;
+  color: rgba(44, 43, 43, 1);
+}
+.training-card {
+  background: rgba(140, 177, 255, 0.6);
+  box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+  height: 124px;
+}
+.social-layout {
+  height: 76px;
+  background-color: rgba(255, 255, 255, 1);
+  margin: 0 auto;
+  margin-top: -42px;
+}

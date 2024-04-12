@@ -1,0 +1,21 @@
+.goals {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.38px;
+  color: rgba(44, 43, 43, 1);
+}
+.box {
+  background-color: rgba(241, 241, 241, 1);
+}
+.box-text {
+  font-family: Montserrat;
+  line-height: 14.63px;
+  text-align: left;
+  color: rgba(44, 43, 43, 1);
+}
+
+input[type="checkbox"].box-checkbox {
+  width: 22px;
+  height: 22px;
+}
